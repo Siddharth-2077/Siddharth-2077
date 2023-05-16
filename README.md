@@ -7,7 +7,7 @@
 
  🧑‍🎓 I currently study at - **MIT Manipal, India [2020-2024]**
 
- 🧑‍💻 Fields of Interest - **Game Development and Networking**
+ 🧑‍💻 Fields of Interest - **Gameplay Programming | Graphics Programming | Networking | Application Development**
 
  💼 Looking for job profiles - **Software Engineer, Gameplay Programmer, Network Engineer**
 
