@@ -11,7 +11,7 @@
 
  💼 Looking for job profiles - **Software Engineer, Gameplay Programmer, Graphics Programmer, Network Engineer**
 
- 📄 Resume - [https://tinyurl.com/siddharth-m-resume-2023](https://tinyurl.com/siddharth-m-resume-2023)
+ 📄 Resume - [https://tinyurl.com/siddharth-resume-2023](https://tinyurl.com/siddharth-resume-2023)
 
  📫 How to reach me - **siddharth.muddu@learner.manipal.edu**
 
