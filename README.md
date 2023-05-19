@@ -7,11 +7,11 @@
 
  🧑‍🎓 I currently study at - **MIT Manipal, India [2020-2024]**
 
- 🧑‍💻 Fields of Interest - **Gameplay Programming | Graphics Programming | Networking | Application Development**
+ 🧑‍💻 Fields of Interest - **Gameplay Programming | Graphics Programming | Application Development | Networking**
 
- 💼 Looking for job profiles - **Software Engineer, Gameplay Programmer, Network Engineer**
+ 💼 Looking for job profiles - **Software Engineer, Gameplay Programmer, Graphics Programmer, Network Engineer**
 
- 📄 Resume - [https://tinyurl.com/siddharth-2077-resume](https://tinyurl.com/siddharth-2077-resume)
+ 📄 Resume - [https://tinyurl.com/siddharth-m-resume-2023](https://tinyurl.com/siddharth-2077-resume)
 
  📫 How to reach me - **siddharth.muddu@learner.manipal.edu**
 
