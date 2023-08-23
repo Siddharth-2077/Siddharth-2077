@@ -5,17 +5,17 @@
 
 <h3 align="left">About Me:</h3>
 
- 🧑‍🎓 I currently study at - **MIT Manipal, India [2020-2024]**
+ 🧑‍🎓 **I currently study at** - MIT Manipal, India [2020-2024]
 
- 🧑‍💻 Fields of Interest - **Gameplay Programming | Graphics Programming | Application Development | Networking**
+ 🧑‍💻 **Fields of Interest** - Gameplay Programming | Graphics Programming | Application Development
 
- 💼 Looking for job profiles - **Software Engineer, Gameplay Programmer, Graphics Programmer, Network Engineer**
+ 💼 **Looking for job profiles** - Software Engineer | Gameplay Programmer | Graphics Programmer
 
- 📄 Resume - [**Google-Drive link to Resume**](https://drive.google.com/file/d/1WKQExovzKQfsx-Knc9mg_pVoX-P3ybG7/view?usp=sharing)
+ 📄 **My Resume** - [Google-Drive link to Resume](https://drive.google.com/file/d/1WKQExovzKQfsx-Knc9mg_pVoX-P3ybG7/view?usp=sharing)
 
- 🎮 Portfolio - [**Google-Drive link to Portfolio**](https://drive.google.com/drive/folders/1DBKWy-6QMzJqkkjKprdkLHx0HTl78rwa?usp=sharing)
+ 🎮 **My Portfolio** - [Google-Drive link to Portfolio](https://drive.google.com/drive/folders/1DBKWy-6QMzJqkkjKprdkLHx0HTl78rwa?usp=sharing)
 
- 📫 How to reach me - **siddharth.muddu@learner.manipal.edu**
+ 📫 **How to reach me** - siddharth.muddu@learner.manipal.edu
 
   
    
