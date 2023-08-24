@@ -11,7 +11,7 @@
 
  💼 **Looking for job profiles** - Software Engineer | Gameplay Programmer | Graphics Programmer
 
- 📄 **My Resume** - [Google-Drive link to Resume](https://drive.google.com/file/d/1WKQExovzKQfsx-Knc9mg_pVoX-P3ybG7/view?usp=sharing)
+ 📄 **My Resume** - [Google-Drive link to Resume](https://drive.google.com/file/d/1TqRDSHYp8lDWH0qsIokEZRA3wT2iTZE4/view?usp=sharing)
 
  🎮 **My Portfolio** - [Google-Drive link to Portfolio](https://drive.google.com/drive/folders/1DBKWy-6QMzJqkkjKprdkLHx0HTl78rwa?usp=sharing)
 
